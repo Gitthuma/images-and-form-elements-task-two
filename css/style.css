@@ -8,3 +8,10 @@ input {
   font-size: 100%;
   padding: 10px;
 }
+
+input[type="submit"] {
+  background-color: rebeccapurple;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
